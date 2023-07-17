@@ -41,3 +41,6 @@ for i in (1..100000000).reject {|i| i % 3 == 0 || i % 5 == 0} do
 end
 
 puts count
+
+
+# test
